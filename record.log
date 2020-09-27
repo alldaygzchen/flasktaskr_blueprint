@@ -1,0 +1,22 @@
+
+ json_results [{'task_id': 1, 'task name': 'Run around in circles', 'due date': '2015-10-22', 'priority': 10, 'posted date': '2015-10-05', 'status': 1, 'user id': 1}, {'task_id': 2, 'task name': 'Purchase Real Python', 'due date': '2016-02-23', 'priority': 10, 'posted date': '2016-02-07', 'status': 1, 'user id': 1}] 
+ jsonify(items=json_results) <Response 287 bytes [200 OK]>
+ json_results [{'task_id': 1, 'task name': 'Run around in circles', 'due date': '2015-10-22', 'priority': 10, 'posted date': '2015-10-05', 'status': 1, 'user id': 1}, {'task_id': 2, 'task name': 'Purchase Real Python', 'due date': '2016-02-23', 'priority': 10, 'posted date': '2016-02-07', 'status': 1, 'user id': 1}] 
+ jsonify(items=json_results) <Response 287 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 287 bytes [200 OK]>
+ json_results [{'task_id': 1, 'task name': 'Pytorch', 'due date': '2020-09-22', 'priority': 2, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 2, 'task name': 'gonzalo', 'due date': '2020-09-26', 'priority': 10, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 3, 'task name': 'gonzalo', 'due date': '2016-09-25', 'priority': 1, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}] 
+ jsonify(items=json_results) <Response 382 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 382 bytes [200 OK]>
+#####################################
+ json_results [{'task_id': 1, 'task name': 'Pytorch', 'due date': '2020-09-22', 'priority': 2, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 2, 'task name': 'gonzalo', 'due date': '2020-09-26', 'priority': 10, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 3, 'task name': 'gonzalo', 'due date': '2016-09-25', 'priority': 1, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}] 
+ jsonify(items=json_results) <Response 382 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 382 bytes [200 OK]>
+ json_results [{'task_id': 1, 'task name': 'Pytorch', 'due date': '2020-09-22', 'priority': 2, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 2, 'task name': 'gonzalo', 'due date': '2020-09-26', 'priority': 10, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}, {'task_id': 3, 'task name': 'gonzalo', 'due date': '2016-09-25', 'priority': 1, 'posted date': '2020-09-26', 'status': 1, 'user id': 2}] 
+ jsonify(items=json_results) <Response 382 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 382 bytes [200 OK]>
+ json_results [{'task_id': 1, 'task name': 'Run around in circles', 'due date': '2015-10-22', 'priority': 10, 'posted date': '2015-10-05', 'status': 1, 'user id': 1}, {'task_id': 2, 'task name': 'Purchase Real Python', 'due date': '2016-02-23', 'priority': 10, 'posted date': '2016-02-07', 'status': 1, 'user id': 1}] 
+ jsonify(items=json_results) <Response 287 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 287 bytes [200 OK]>
+ json_results [{'task_id': 1, 'task name': 'Run around in circles', 'due date': '2015-10-22', 'priority': 10, 'posted date': '2015-10-05', 'status': 1, 'user id': 1}, {'task_id': 2, 'task name': 'Purchase Real Python', 'due date': '2016-02-23', 'priority': 10, 'posted date': '2016-02-07', 'status': 1, 'user id': 1}] 
+ jsonify(items=json_results) <Response 287 bytes [200 OK]> 
+ make_response(jsonify(items=json_results)) <Response 287 bytes [200 OK]>

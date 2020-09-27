@@ -15,3 +15,9 @@
 404 error at 27-09-2020 12:37:40: http://localhost/this-route-does-not-exist/ 
 404 error at 27-09-2020 12:40:22: http://localhost/this-route-does-not-exist/ 
 404 error at 27-09-2020 12:52:19: http://localhost/this-route-does-not-exist/ 
+404 error at 27-09-2020 12:52:56: http://localhost/this-route-does-not-exist/ 
+404 error at 27-09-2020 12:55:28: http://localhost/this-route-does-not-exist/ 
+404 error at 27-09-2020 14:12:04: http://127.0.0.1:5000/tasks/1 
+404 error at 27-09-2020 15:44:44: http://localhost:5000/favicon.ico 
+404 error at 27-09-2020 16:12:56: http://localhost/this-route-does-not-exist/ 
+404 error at 27-09-2020 16:14:37: http://localhost/this-route-does-not-exist/ 
